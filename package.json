@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Real Time Chat Applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeepsandy62/RealTime-Chat-App.git"
+  },
+  "keywords": [
+    "chatappbackend"
+  ],
+  "author": "sandeep gogarla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandeepsandy62/RealTime-Chat-App/issues"
+  },
+  "homepage": "https://github.com/sandeepsandy62/RealTime-Chat-App#readme"
+}
